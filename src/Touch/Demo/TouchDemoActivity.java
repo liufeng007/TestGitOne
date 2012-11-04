@@ -25,3 +25,5 @@ public class TouchDemoActivity extends Activity {
         });
     }
 }
+
+//changed at 2012-11-4 21:17
